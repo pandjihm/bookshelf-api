@@ -1,14 +1,14 @@
 {
   "name": "bookshelf-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "submission belajar membuat aplikasi backend untuk pemula",
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./src/server.js",
     "lint": "eslint ./src"
   },
   "keywords": [],
-  "author": "",
+  "author": "pandji hidjrat moko",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^7.27.0",
